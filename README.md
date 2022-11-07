@@ -1,3 +1,3 @@
 # BIkachu
 
-![Pikachu usando Power BI](https://i.imgur.com/4yRscOZ.png "bikachu")
+<img src="https://i.imgur.com/4yRscOZ.png" alt="Pikachu using Power BI" width="500"/>
